@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Cars</string>
-    <string name="modelo">Modelo:</string>
-    <string name="cavalos">Cavalos:</string>
+    <string name="modelo">Modelo</string>
+    <string name="cavalos">Cavalos</string>
     <string name="preco">Preco:</string>
+    <string name="ver_detalhes">Ver detalhes</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="valor">Valor</string>
 </resources>
